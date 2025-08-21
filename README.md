@@ -16,4 +16,4 @@ Dashboard development (Tableau, Power BI)
 
 Cloud-based data solutions (AWS, Azure)
 
-Cross-functional analytics projects in finance, operations, and technology
+Cross-functional analytics projects in finance, operations, and technology 
