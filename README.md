@@ -6,7 +6,7 @@ Welcome to my Data Analytics Portfolio!
 This repository highlights my work in data analysis, visualization, predictive modeling, and ETL development, showcasing projects that turn complex datasets into actionable insights.
 about me
 
-I am a Data Analyst with 3+ years of experience in:
+I am a Data Analyst with 3+ years of experience in
 
 Financial data analysis & KPI reporting
 
